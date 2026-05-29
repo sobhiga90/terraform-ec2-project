@@ -1,0 +1,13 @@
+
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+crash.log
+override.tf
+override.tf.json
+
+# lock file is allowed
+# .terraform.lock.hcl  <-- DO NOT ignore this
